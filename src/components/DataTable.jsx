@@ -20,7 +20,7 @@ const DataTable = ({dataArray, page}) => {
                 return( data.page === page &&                    
                 <tr key={count++}>
                   <th>{count}</th>
-                  <td><a href={data.link} className='link'>{data.name}</a></td>
+                  <td><a href={data.link} className='link' target='_blank'>{data.name}</a></td>
                   <td>{data.detail}</td>
                 </tr>)
               })

@@ -10,6 +10,8 @@ import SystemDesign from "../pages/SystemDesign"
 import ReactPage from "../pages/ReactPage"
 import NodePage from "../pages/NodePage"
 import DatabasePage from "../pages/DatabasePage"
+import AnimationPage from "../pages/AnimationPage"
+import WebsiteBuilder from "../pages/WebsiteBuilder"
 
 const AppRoute = () => {
 
@@ -51,6 +53,12 @@ const AppRoute = () => {
         },{
           path: '/database',
           element: <DatabasePage/>
+        },{
+          path:'/animation',
+          element: <AnimationPage/>
+        },{
+          path: '/website',
+          element: <WebsiteBuilder/>
         }
       ]
     }

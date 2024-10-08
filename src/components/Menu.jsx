@@ -14,6 +14,8 @@ const Menu = () => {
         <li><NavLink to={'/system-design'}>System Design</NavLink></li>
         <li><NavLink to={'/react'}>React</NavLink></li>
         <li><NavLink to={'/node'}>Node</NavLink></li>
+        <li><NavLink to={'/animation'}>Animation</NavLink></li>
+        <li><NavLink to={'/website'}>WebsiteBuilder</NavLink></li>
       </ul>
     </div>
   )

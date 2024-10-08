@@ -29,5 +29,202 @@ export const dataArray =[
     name: 'Eraser',
     link: 'https://www.eraser.io/?r=0',
     detail: 'Technical design and UI design'
+  },{
+    page: 'Tailwind',
+    name: 'Aceternity',
+    link: 'https://ui.aceternity.com/',
+    detail: ''
+  },{
+    page: 'AnimationPage',
+    name: 'Spline',
+    link: 'https://spline.design/',
+    detail: 'Animated Comonents'
   }
-]
+  ,{
+    page: 'WebsiteBuilder',
+    name: 'Webflow',
+    link: 'https://webflow.com/',
+    detail: ''
+  },{
+    page: 'DesignPage',
+    name: 'Semplice',
+    link: 'https://www.semplice.com/',
+    detail: ''
+  },{
+    page: 'WebsiteBuilder',
+    name: 'Framer',
+    link: 'https://www.framer.com/',
+    detail: ''
+  },{
+    page: 'DesignPage',
+    name: 'Figma',
+    link: 'https://www.figma.com/',
+    detail: ''
+  },{
+    page: 'WebsiteBuilder',
+    name: 'WordPress',
+    link: 'https://wordpress.com/',
+    detail: ''
+  },{
+    page: 'AnimationPage',
+    name: 'ThreeJs',
+    link: 'https://threejs.org/',
+    detail: ''
+  },{
+    page: 'AnimationPage',
+    name: 'Gsap',
+    link: 'https://gsap.com/',
+    detail: ''
+  },{
+    page: 'AnimationPage',
+    name: 'Framer Motion',
+    link: 'https://www.framer.com/motion/',
+    detail: ''
+  },{
+    page: 'AnimationPage',
+    name: 'Tinkercad',
+    link: 'https://www.tinkercad.com/',
+    detail: ''
+  },{
+    page: 'AnimationPage',
+    name: 'Lottie',
+    link: 'https://lottiefiles.com/',
+    detail: ''
+  },{
+    page: 'DesignPage',
+    name: 'Canva',
+    link: 'https://www.canva.com/en_in/',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  },{
+    page: '',
+    name: '',
+    link: '',
+    detail: ''
+  }
+] 
+// 

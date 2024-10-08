@@ -1,10 +1,9 @@
-import React from 'react'
-import { NavLink } from 'react-router-dom'
+import DataTable from "../components/DataTable"
+import { dataArray } from "../data/data"
 
 const HtmlPage = () => {
   return (
-    <div className='flex flex-col gap-10 m-10'>
-    </div>
+    <DataTable dataArray={dataArray} page='HtmlPage'/>
   )
 }
 
