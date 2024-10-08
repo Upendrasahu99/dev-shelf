@@ -10,8 +10,6 @@ import SystemDesign from "../pages/SystemDesign"
 import ReactPage from "../pages/ReactPage"
 import NodePage from "../pages/NodePage"
 import DatabasePage from "../pages/DatabasePage"
-import HtmlResourcePage from "../pages/child-pages/HtmlResourcePage"
-import HtmlToolsPage from "../pages/child-pages/HtmlToolsPage"
 
 const AppRoute = () => {
 
@@ -29,18 +27,6 @@ const AppRoute = () => {
         },{
           path: '/html',
           element: <HtmlPage/>,
-          children:[
-            {
-              index: true,
-              element: <Navigate to={'/html/resources'}/>
-            },{
-              path: '/html/resources',
-              element: <HtmlResourcePage/>
-            },{
-              path: '/html/tools',
-              element: <HtmlToolsPage/>
-            }
-          ]
         },{
           path: '/css',
           element: <CssPage/>

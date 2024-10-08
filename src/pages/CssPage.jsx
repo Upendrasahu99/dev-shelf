@@ -1,8 +1,10 @@
-import React from 'react'
+import DataTable from '../components/DataTable'
+import { dataArray } from '../data/data.js'
 
 const CssPage = () => {
+
   return (
-    <div>CssPage</div>
+    <DataTable dataArray={dataArray} page='CssPage'/>
   )
 }
 
