@@ -17,47 +17,47 @@ const AppRoute = () => {
 
   const route = createBrowserRouter([
     {
-      path: '/',
+      path: '/dev-shelf',
       element: <MainLayout/>,
       children:[
         {
           index: true,
-          element: <Navigate to={'/home'}/>
+          element: <Navigate to={'/dev-shelf/home'}/>
         },{
-          path: '/home',
+          path: '/dev-shelf/home',
           element: <HomePage/>
         },{
-          path: '/html',
+          path: '/dev-shelf/html',
           element: <HtmlPage/>,
         },{
-          path: '/css',
+          path: '/dev-shelf/css',
           element: <CssPage/>
         },{
-          path: '/javascript',
+          path: '/dev-shelf/javascript',
           element: <JavascriptPage/>
         },{
-          path: '/tailwind',
+          path: '/dev-shelf/tailwind',
           element: <Tailwind/>
         },{
-          path: '/design',
+          path: '/dev-shelf/design',
           element: <DesignPage/>
         },{
-          path: '/system-design',
+          path: '/dev-shelf/system-design',
           element: <SystemDesign/>
         },{
-          path: '/react',
+          path: '/dev-shelf/react',
           element: <ReactPage/>
         },{
-          path: '/node',
+          path: '/dev-shelf/node',
           element: <NodePage/>
         },{
-          path: '/database',
+          path: '/dev-shelf/database',
           element: <DatabasePage/>
         },{
-          path:'/animation',
+          path:'/dev-shelf/animation',
           element: <AnimationPage/>
         },{
-          path: '/website',
+          path: '/dev-shelf/website',
           element: <WebsiteBuilder/>
         }
       ]
