@@ -96,14 +96,14 @@ export const dataArray =[
     link: 'https://www.canva.com/en_in/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'DesignPage',
+    name: 'Wix',
+    link: 'https://www.wix.com/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'DesignPage',
+    name: 'Reweb',
+    link: 'https://www.reweb.so/',
     detail: ''
   },{
     page: '',
