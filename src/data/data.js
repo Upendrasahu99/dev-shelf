@@ -106,24 +106,24 @@ export const dataArray =[
     link: 'https://www.reweb.so/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'WebsiteBuilder',
+    name: 'Bubble',
+    link: 'https://bubble.io/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'WebsiteBuilder',
+    name: 'FlutterFlow',
+    link: 'https://www.flutterflow.io/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'WebsiteBuilder',
+    name: 'retool',
+    link: 'https://retool.com/',
     detail: ''
   },{
-    page: '',
+    page: 'HomePage',
     name: '',
-    link: '',
+    link: 'https://zapier.com/',
     detail: ''
   },{
     page: '',
