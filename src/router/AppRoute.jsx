@@ -1,4 +1,4 @@
-import { createBrowserRouter, RouterProvider, Navigate } from "react-router-dom"
+import { createBrowserRouter, createHashRouter, RouterProvider, Navigate } from "react-router-dom"
 import MainLayout from "../Layouts/MainLayout"
 import HomePage from "../pages/HomePage"
 import HtmlPage from "../pages/HtmlPage"

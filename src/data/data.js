@@ -122,29 +122,29 @@ export const dataArray =[
     detail: ''
   },{
     page: 'HomePage',
-    name: '',
+    name: 'Zapier',
     link: 'https://zapier.com/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'DesignPage',
+    name: 'Figjam',
+    link: 'https://www.figma.com/figjam/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'DesignPage',
+    name: 'Octopus.do',
+    link: 'https://octopus.do/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'DesignPage',
+    name: 'Relume',
+    link: 'https://www.relume.io/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
-    detail: ''
+    page: 'DesignPage',
+    name: 'TypeScale',
+    link: 'https://typescale.com/',
+    detail: 'For giving font size accroding to section'
   },{
     page: '',
     name: '',
