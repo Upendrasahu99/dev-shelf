@@ -146,49 +146,49 @@ export const dataArray =[
     link: 'https://typescale.com/',
     detail: 'For giving font size accroding to section'
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'HomePage',
+    name: 'RemoveBg',
+    link: 'https://www.remove.bg/',
+    detail: 'Remove Background Image'
+  },{
+    page: 'SystemDesign',
+    name: 'ByteByteGo',
+    link: 'https://bytebytego.com/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'WebsiteBuilder',
+    name: 'Agora App builder',
+    link: 'https://appbuilder.agora.io/',
+    detail: 'video chat application with low code'
+  },{
+    page: 'HomePage',
+    name: 'netlify',
+    link: 'https://www.netlify.com/',
+    detail: 'cloud For deploy site'
+  },{
+    page: 'JavascriptPage',
+    name: 'miragejs',
+    link: 'https://miragejs.com/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'HomePage',
+    name: 'porfolio projects',
+    link: 'https://github.com/emmabostian/developer-portfolios',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'JavascriptPage',
+    name: 'D3.js',
+    link: 'https://d3js.org/',
+    detail: 'data visualization'
+  },{
+    page: 'JavascriptPage',
+    name: 'p5.js',
+    link: 'https://p5js.org/tutorials/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
-    detail: ''
-  },{
-    page: '',
-    name: '',
-    link: '',
-    detail: ''
-  },{
-    page: '',
-    name: '',
-    link: '',
-    detail: ''
-  },{
-    page: '',
-    name: '',
-    link: '',
-    detail: ''
-  },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'JavascriptPage',
+    name: 'react spring',
+    link: 'https://www.react-spring.dev/',
     detail: ''
   },{
     page: '',
