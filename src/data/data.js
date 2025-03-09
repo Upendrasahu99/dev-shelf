@@ -191,29 +191,29 @@ export const dataArray =[
     link: 'https://www.react-spring.dev/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'DesignPage',
+    name: 'exvali draw',
+    link: 'https://excalidraw.com/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'DesignPage',
+    name: 'Svg app',
+    link: 'https://svgl.app/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'AnimationPage',
+    name: 'reactbits',
+    link: 'https://www.reactbits.dev/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'AnimationPage',
+    name: 'universe.io',
+    link: 'https://uiverse.io/',
     detail: ''
   },{
-    page: '',
-    name: '',
-    link: '',
+    page: 'AI',
+    name: 'picaos',
+    link: 'https://app.picaos.com/tools',
     detail: ''
   },{
     page: '',
